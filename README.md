@@ -1,4 +1,4 @@
-# Sportify Clone
+# Spotify Clone
 
 A simple clone of the popular music streaming platform, Spotify, built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core features of Spotify, such as music playback, playlist creation, and search functionality.
 
